@@ -1,0 +1,3 @@
+include ':swipeLsit'
+include ':app'
+rootProject.name = "SwipeListApplication"
