@@ -16,7 +16,7 @@ first you must add library in your Gradle
   Step 2. Add the dependency
 
 	dependencies {
-	        implementation 'com.github.mhmdVoj:SwipeList:Tag'
+	        implementation 'com.github.mhmdVoj:SwipeList:0.1'
 	}
   then in activity that want use in list : 
   ```
